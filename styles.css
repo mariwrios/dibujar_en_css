@@ -705,7 +705,7 @@ body {
   
     .superContainer {  
       position:fixed; 
-      top: -50px;
+      top: -60px;
       transform: scale(0.9); 
     }
   }
@@ -713,7 +713,7 @@ body {
   @media only screen and (max-width: 1200px) {
     .superContainer {  
       position:fixed; 
-      top: -100px;
+      top: -110px;
       transform: scale(0.8); 
     }
   }
@@ -721,7 +721,7 @@ body {
   @media only screen and (max-width: 1000px) {
     .superContainer {  
       position:fixed; 
-      top: -200px;
+      top: -210px;
       transform: scale(0.6); 
     }
   }
@@ -729,7 +729,7 @@ body {
   @media only screen and (max-width: 800px) {
     .superContainer {  
       position:fixed; 
-      top: -250px;
+      top: -260px;
       transform: scale(0.5); 
     }
   }
@@ -737,7 +737,7 @@ body {
   @media only screen and (max-width: 700px) {
     .superContainer {  
       position:fixed; 
-      top: -300px;
+      top: -310px;
       transform: scale(0.4); 
     }
   }
@@ -745,7 +745,7 @@ body {
   @media only screen and (max-width: 550px) {
     .superContainer {  
       position:fixed; 
-      top: -350px;
+      top: -360px;
       transform: scale(0.3); 
     }
 
@@ -754,7 +754,7 @@ body {
   @media only screen and (max-width: 350px) {
     .superContainer {  
       position:fixed; 
-      top: -400px;
+      top: -420px;
       transform: scale(0.2); 
     }
   }
